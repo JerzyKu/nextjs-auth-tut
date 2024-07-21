@@ -23,7 +23,7 @@ model User {
   accounts      Account[]
 
  
-  @@map("users")
+  // @@map("users")
 }
 
 model Account {
