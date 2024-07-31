@@ -1,1 +1,14 @@
+npx prisma init
+npx prisma generate // req generator 
 npx prisma db push
+
+neon.tech
+
+
+
+
+
+
+
+
+2:32:53
