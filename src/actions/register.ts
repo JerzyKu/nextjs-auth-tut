@@ -29,7 +29,8 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
             email,
         }
     })
-    // TODO: end veryficatione toke email 
-    // return {success: "Email sent!"}
+
+    // TODO: end veryficatione token email 
+    
     return {success: "User created!"}
 }

@@ -1,2 +1,19 @@
+<<<<<<< HEAD
  npx prisma generate
 npx prisma db push
+=======
+npx prisma init
+npx prisma generate // req generator 
+npx prisma db push
+
+neon.tech
+
+
+
+
+
+
+
+
+2:39 
+>>>>>>> 7d2073581f3207f19cac0da5abb58ee1f9f557b5
